@@ -1,4 +1,4 @@
-package com.mycompany.myapp.config;
+package karthik.oauth.config;
 
 import javax.validation.constraints.NotNull;
 

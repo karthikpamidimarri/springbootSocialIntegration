@@ -4,9 +4,9 @@ package karthik.restcontrollers;
 import javax.servlet.http.HttpServletRequest;
 import javax.validation.Valid;
 
+import karthik.auth.repository.AuthorityRepository;
 import karthik.oauth.domain.User;
 import karthik.oauth.domain.UserRepository;
-import karthik.repository.AuthorityRepository;
 import karthik.restDTO.UserDTO;
 import karthik.service.AccountService;
 import karthik.service.UserService;

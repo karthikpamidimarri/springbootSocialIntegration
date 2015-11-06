@@ -5,10 +5,10 @@ import java.util.Optional;
 import java.util.HashSet;
 import java.util.Set;
 
+import karthik.auth.repository.AuthorityRepository;
 import karthik.oauth.domain.Authority;
 import karthik.oauth.domain.User;
 import karthik.oauth.domain.UserRepository;
-import karthik.repository.AuthorityRepository;
 import karthik.security.SecurityUtils;
 import karthik.util.RandomUtil;
 

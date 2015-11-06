@@ -2,9 +2,9 @@ package karthik.service;
 
 import java.util.Optional;
 
+import karthik.auth.repository.AuthorityRepository;
 import karthik.oauth.domain.User;
 import karthik.oauth.domain.UserRepository;
-import karthik.repository.AuthorityRepository;
 import karthik.security.SecurityUtils;
 
 import org.slf4j.Logger;

@@ -1,4 +1,4 @@
-package karthik.repository;
+package karthik.auth.repository;
 
 
 import karthik.oauth.domain.Authority;
